@@ -1,3 +1,4 @@
+import java.util.Scanner;
 class M_Rooh
 {
   public static void main(String[] args)
